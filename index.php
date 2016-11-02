@@ -1,8 +1,11 @@
+<?php
+	$title = 'Super Site!!!';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Super Site</title>
+	<title><?= $title ?></title>
 </head>
 <body>
 	<!-- Тут будет шапка -->
