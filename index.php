@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Super Site</title>
 </head>
 <body>
 	<h1>Super Site</h1>
