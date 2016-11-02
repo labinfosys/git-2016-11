@@ -12,6 +12,6 @@
 
 	<!-- Серединка -->
 
-	<!-- Подвал -->
+	<?php include ('footer.php'); ?>
 </body>
 </html>
