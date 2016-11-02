@@ -8,10 +8,11 @@
 	<title><?= $title ?></title>
 </head>
 <body>
-	<?php include_once ('h1.php'); ?>
+	<?php include ('h1.php'); ?>
 
-	<!-- Серединка -->
+	<?php include ('list.php'); ?>
 
-	<!-- Подвал -->
+	<?php include ('footer.php'); ?>
+
 </body>
 </html>
