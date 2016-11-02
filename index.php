@@ -5,6 +5,10 @@
 	<title>Super Site</title>
 </head>
 <body>
-	<h1>Super Site</h1>
+	<!-- Тут будет шапка -->
+
+	<!-- Серединка -->
+
+	<!-- Подвал -->
 </body>
 </html>
