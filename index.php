@@ -1,10 +1,17 @@
+<?php
+	$title = 'Super Site!!!';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Super Site</title>
+	<title><?= $title ?></title>
 </head>
 <body>
-	<h1>Super Site</h1>
+	<!-- Тут будет шапка -->
+
+	<!-- Серединка -->
+
+	<!-- Подвал -->
 </body>
 </html>
