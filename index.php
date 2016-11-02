@@ -8,7 +8,7 @@
 	<title><?= $title ?></title>
 </head>
 <body>
-	<!-- Тут будет шапка -->
+	<?php include_once ('h1.php'); ?>
 
 	<!-- Серединка -->
 
